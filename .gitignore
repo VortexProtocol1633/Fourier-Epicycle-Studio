@@ -1,0 +1,26 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Packaging / build output
+build/
+dist/
+*.egg-info/
+
+# Saved output from the app
+*.png
+!examples/*.png
+!docs/*.png
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
